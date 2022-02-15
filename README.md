@@ -2,8 +2,6 @@
 
 # Project Name Hello Microverse
 
-# Project Name: Hello_Microverse
-
 > Description the project. This project is about setting your Github repository and adding a linters file to check out bugs, syntax errors and others found in your code
 
 
